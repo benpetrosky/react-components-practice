@@ -1,0 +1,16 @@
+
+
+
+  
+
+  ReactDOM.render(
+    <div>
+      <h1>Help Queue</h1>
+      <h3>3a</h3>
+      <h3>Thato and Haley</h3>
+      <p><em>Firebase is being poopy</em></p>
+    </div>,
+
+
+    document.getElementById('react-app-root')
+  );
